@@ -1,0 +1,14 @@
+**Database Name: ecommerceapp**
+
+**Developed by Edwin Kirika**
+
+
+
+**Admin Login Details**
+
+Email:    harryden@gmail.com
+Password: password
+
+
+Email:   edwin@gmail.com
+Password: edwin
